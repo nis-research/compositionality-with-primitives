@@ -203,8 +203,8 @@ Run `compute_statistics.py` to compute geometric variance, mutual information, a
 python compute_statistics.py \
     --model openclip grit talk2dino \
     --arch ViT-B-16 ViT-L-14 \
-    --pretraining laion2b s4b \
-    --dataset cgqa mit-states \
+    --pretraining openai \
+    --dataset mit-states \
     --normalize \
     --whiten
 ```
