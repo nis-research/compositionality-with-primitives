@@ -1,6 +1,6 @@
 # Compositionality with Primitives: Geometric Deep Embedding for Compositional Generalization
 
-**Official repository for the WACV 2027 paper** *"Compositionality with Primitives: Geometric Deep Embedding for Compositional Generalization"*
+**Official repository for the WACV 2027 paper** *"Compositionality with Primitives: A Unified View from Euclidean to Hyperbolic Vision-Language Models"*
 
 ---
 
