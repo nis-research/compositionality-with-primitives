@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Vaish
+    given-names: Puru
+  - family-names: Dashti
+    given-names: Meelad
+  - family-names: Brune
+    given-names: Christoph
+  - family-names: Mettes
+    given-names: Pascal
+  - family-names: Tommasi
+    given-names: Tatiana
+  - family-names: Strisciuglio
+    given-names: Nicola
+title: "Compositionality with Primitives: A Unified View from Euclidean to Hyperbolic Vision-Language Models"
+date-released: 2026-10-21
+doi: "10.48550/arXiv.2610.29811"
+url: "https://arxiv.org/abs/2610.29811v1"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Vaish
+      given-names: Puru
+    - family-names: Dashti
+      given-names: Meelad
+    - family-names: Brune
+      given-names: Christoph
+    - family-names: Mettes
+      given-names: Pascal
+    - family-names: Tommasi
+      given-names: Tatiana
+    - family-names: Strisciuglio
+      given-names: Nicola
+  title: "Compositionality with Primitives: A Unified View from Euclidean to Hyperbolic Vision-Language Models"
+  collection-title: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2027
+  doi: "10.48550/arXiv.2610.29811"
+  url: "https://arxiv.org/abs/2610.29811v1"
