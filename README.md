@@ -110,7 +110,6 @@ The project is implemented in Python 3.12 and uses:
 - `torch` / `torchvision`
 - `open-clip-torch` (for OpenCLIP backbones)
 - `transformers` / `timm` (for Talk2DiNo and GRIT backbones)
-- `geomloss` / `pytorch-manifold` (for hyperbolic/spherical geometry operations)
 - `tqdm`, `python-dotenv`, `numpy`, `PIL`
 
 Install with pip (adjust for your environment):
