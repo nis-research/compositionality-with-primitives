@@ -276,7 +276,16 @@ All outputs will be written under `result/` mirroring the `dataset/model/` hiera
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-Coming Soon!
+@article{Vaish2026Oct,
+	author = {Vaish, Puru and Dashti, Meelad and Brune, Christoph and Mettes, Pascal and Tommasi, Tatiana and Strisciuglio, Nicola},
+	title = {{Compositionality with Primitives: A Unified View from Euclidean to Hyperbolic Vision-Language Models}},
+	journal = {IEEE/CVF Winter Application on Computer Vision 2027},
+	year = {2026},
+	month = oct,
+	eprint = {2610.29811},
+	doi = {10.48550/arXiv.2610.29811}
+}
+
 ```
 
 ---
